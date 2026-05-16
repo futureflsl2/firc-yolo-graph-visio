@@ -1,3 +1,6 @@
+<table>
+<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<tbody>
 <tr><td>[visio文件]yolov3yolov4yolov5网络结构图.vsdx</td><td><a href="https://mbd.pub/o/bread/YZaTlJhpZg==">下载</a></td></tr>
 <tr><td>[visio文件]YOLOv5网络结构图完整版.7z</td><td><a href="https://mbd.pub/o/bread/YZaTlJhpZw==">下载</a></td></tr>
 <tr><td>[visio文件]yolov6目标检测网络结构图</td><td><a href="https://mbd.pub/o/bread/YZaTlJhpaA==">下载</a></td></tr>
@@ -14,3 +17,5 @@
 <tr><td>[visio文件]yolo26-seg实例分割网络结构图</td><td><a href="https://mbd.pub/o/bread/YZaTlJhqag==">下载</a></td></tr>
 <tr><td>[visio文件]yolov26目标检测网络结构图yolo26目标检测网络结构图</td><td><a href="https://mbd.pub/o/bread/YZaTlJhqZg==">下载</a></td></tr>
 <tr><td>[visio文件]yolox目标检测网络结构图yolox网络结构图</td><td><a href="https://mbd.pub/o/bread/YZaTlJhqaw==">下载</a></td></tr>
+</tbody>
+</table>
